@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460576204648",
+    "project_id": "baatain-1e5f3",
+    "storage_bucket": "baatain-1e5f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460576204648:android:4bea4a309da3c3bab558dd",
+        "android_client_info": {
+          "package_name": "com.example.baatain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460576204648-0muii7d75ov8tgq0fv4ut7p38lhm4o46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjy6Czq3pGviOhmRZiCeUPqe4_ZkxVUwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460576204648-0muii7d75ov8tgq0fv4ut7p38lhm4o46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
