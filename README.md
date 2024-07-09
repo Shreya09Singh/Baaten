@@ -10,7 +10,6 @@ Calling: Make audio and video calls within the app.
 Update Profile: Users can update their profile information.
 Search: Search for other users by name or username.
 Technologies Used
-
 Flutter: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 Firebase: A platform developed by Google for creating mobile and web applications.
 Firebase Authentication: Authenticate users using passwords, phone numbers, and popular identity providers.
